@@ -1,5 +1,12 @@
+
+<p align="center">
+  <img src="https://files.catbox.moe/o1xrs7.webp" />
+</p>
+<p>
+  <img src="https://files.catbox.moe/78a15n.png" style="width:470px;height:400px;" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&size=30&pause=1000&color=A9321C&center=true&vCenter=true&width=435&lines=Indivisibiliter+ac+Inseparabiliter;Til+death+do+us+part.)](https://git.io/typing-svg)
-![description]([https://site.com/image.png](https://files.catbox.moe/o1xrs7.webp))
 <!--
 **osterreichungarn/osterreichungarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
