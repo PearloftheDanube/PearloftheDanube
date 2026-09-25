@@ -6,7 +6,7 @@
 </p>
 
 
-<p>  <img src="https://files.catbox.moe/78a15n.png" align=left style="width:470px;height:400px; </p>
+<p>  <img src="https://files.catbox.moe/78a15n.png" align=left style="width:400px;height:330px; </p>
 
-<p style="margin-bottom: 60px;">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
+<p style="margin-bottom: 60px;" align=center>⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹ </p>
 <p> meow </p>
