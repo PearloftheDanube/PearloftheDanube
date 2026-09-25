@@ -13,7 +13,33 @@
 
 <p>
   <details>
-    <summary>Example</summary>
-    This is a dropdown with text!
+    <summary>
+      $${\color{#C7856B}&emsp; About}$$
+      $${\color{#CFA185}⠀Me}$$ &emsp;
+    </summary>
+    <br>
+    $${\color{#B13F63}&emsp;&emsp;&emsp; ⠀⠀Kismet}$$
+    $${\color{#B65468}&emsp;/}$$
+    $${\color{#BC6B6D}&emsp;Vienna}$$
+    $${\color{#C38472}&emsp;/}$$
+    $${\color{#C89977}&emsp;Finley}$$
+      <br>
+    $${\color{#CDC3A9}&emsp;&emsp;⠀ He}$$
+    $${\color{#B6B89D}/}$$
+    $${\color{#9AAA8D}They}$$
+    $${\color{#829E80}&emsp;&emsp;· · ─ ·✶· ─ · ·}$$
+    $${\color{#699173}&emsp;&emsp; 10.12} $$
+      <br>
+    $${\color{#A03340}⠀⠀⠀⠀Austria}$$
+    $${\color{#B7625E}Hungary}$$
+    $${\color{#D19780}⠀Kin}$$
+    $${\color{#EDCFA5} ꧁ ༺♔ ༻ ꧂}$$
+    $${\color{#CAC295}and}$$
+    $${\color{#A6B585}⠀Canada}$$
+    $${\color{#7FA673}⠀Kin}$$
   </details>
+</p>
+
+<p>
+        <a href="osterreichungarn.straw.page">STRAWPAGE</a>
 </p>
