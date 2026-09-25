@@ -1,23 +1,12 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/o1xrs7.webp" />
+  <img src="https://files.catbox.moe/o1xrs7.webp">
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Felipa&size=30&pause=1000&color=A9321C&center=true&vCenter=true&width=435&lines=Indivisibiliter+ac+Inseparabiliter;Til+death+do+us+part." alt="Typing SVG" align="center" /></a>
 </p>
-<p>
-  <img src="https://files.catbox.moe/78a15n.png" style="width:470px;height:400px;" />
-</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&size=30&pause=1000&color=A9321C&center=true&vCenter=true&width=435&lines=Indivisibiliter+ac+Inseparabiliter;Til+death+do+us+part.)](https://git.io/typing-svg)
-<!--
-**osterreichungarn/osterreichungarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>  <img src="https://files.catbox.moe/78a15n.png" align=left style="width:470px;height:400px; </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="margin-bottom: 60px;">⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹</p>
+<p> meow </p>
